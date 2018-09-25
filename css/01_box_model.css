@@ -13,7 +13,11 @@ body {
 .box {
   width: 200px;
   height: 300px;
-  background-color: gray;
+  background-color: pink;
   color: white;
+  padding-left: 20px;
+  border: 5px solid mediumseagreen;
+  margin-bottom: 20px;
+  display: inline-block;
 }
 
